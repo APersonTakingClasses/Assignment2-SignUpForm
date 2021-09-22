@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Assignment2-SignUpForm</string>
+
+    <string name="greeting">Register Account</string>
+    <string name="hintUsername">Input Username</string>
+    <string name="hintEmail">Input E-mail Address</string>
+    <string name="hintPassword1">Input Password</string>
+    <string name="hintPassword2">Confirm Password</string>
+</resources>
